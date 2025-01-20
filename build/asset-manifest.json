@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/libreriaweb/static/css/main.5c66ecf2.css",
+    "main.js": "/libreriaweb/static/js/main.bf75d6b4.js",
+    "static/js/239.054e72d1.chunk.js": "/libreriaweb/static/js/239.054e72d1.chunk.js",
+    "static/js/213.bd2ab4c9.chunk.js": "/libreriaweb/static/js/213.bd2ab4c9.chunk.js",
+    "static/js/455.37c595e3.chunk.js": "/libreriaweb/static/js/455.37c595e3.chunk.js",
+    "static/media/fondo.jpeg": "/libreriaweb/static/media/fondo.bab447438abb176afad8.jpeg",
+    "index.html": "/libreriaweb/index.html",
+    "main.5c66ecf2.css.map": "/libreriaweb/static/css/main.5c66ecf2.css.map",
+    "main.bf75d6b4.js.map": "/libreriaweb/static/js/main.bf75d6b4.js.map",
+    "239.054e72d1.chunk.js.map": "/libreriaweb/static/js/239.054e72d1.chunk.js.map",
+    "213.bd2ab4c9.chunk.js.map": "/libreriaweb/static/js/213.bd2ab4c9.chunk.js.map",
+    "455.37c595e3.chunk.js.map": "/libreriaweb/static/js/455.37c595e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c66ecf2.css",
+    "static/js/main.bf75d6b4.js"
+  ]
+}
